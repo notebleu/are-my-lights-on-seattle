@@ -1,6 +1,6 @@
 <?php
 
-$debug     = TRUE;
+$debug     = FALSE;
 
 date_default_timezone_set('America/Los_Angeles');
 
